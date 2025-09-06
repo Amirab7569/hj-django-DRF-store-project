@@ -1,0 +1,12 @@
+asgiref==3.9.1
+Django==5.2.5
+django-debug-toolbar==6.0.0
+django-filter==25.1
+django-rest-framework==0.1.0
+djangorestframework==3.16.0
+drf-nested-routers==0.94.2
+factory_boy==3.3.3
+Faker==37.5.3
+mysqlclient==2.2.7
+sqlparse==0.5.3
+tzdata==2025.2
