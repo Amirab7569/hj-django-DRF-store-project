@@ -1,2 +1,2 @@
 venv
-*DB.Store
+.DB.Store
